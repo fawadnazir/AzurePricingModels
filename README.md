@@ -1,4 +1,4 @@
-Title: Azure Cost Estimator for RAG-based Contact Center Agents
+Title: Azure OpenAI Cost Estimator for RAG-based Contact Center Agents UseCase
 
 Description:
 
